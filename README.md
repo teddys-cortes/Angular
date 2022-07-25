@@ -17,3 +17,9 @@
     - ng g m nombre-de-la-carpeta/nombre-module
   * Reconstruir modulos de NODE
     - npm install
+
+
+#Despliegue servidor
+ * generar version de produccion
+   - ng build --configuration production
+ 
