@@ -13,3 +13,5 @@
     - ng g c nombre-de-la-carpeta/nombre-component
   * Crear un modulo
     - ng g m nombre-de-la-carpeta/nombre-module
+  * Reconstruir modulos de NODE
+    - npm install
