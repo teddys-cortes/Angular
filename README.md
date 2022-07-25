@@ -21,7 +21,10 @@
     - npm install
 
 
-#Despliegue servidor
+# Despliegue servidor
  * generar version de produccion
    - ng build --configuration production
+
+# Bases de datos
+  1. **  https://app.netlify.com/sites/admirable-concha-e15bda/overview **
  
