@@ -8,6 +8,8 @@
 
 
 ## Comentarios
+  * Crear un nuevo proyecto en angular
+    - ng new nombre de la aplicacion 
   * Correr server
     - ng serve (arranca el servidor sin pagina)
     - ng serve -o (arranca el servido con pagina incluida)
