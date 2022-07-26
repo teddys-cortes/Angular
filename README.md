@@ -18,7 +18,7 @@
   * Crear un modulo
     - `ng g m` nombre-de-la-carpeta/nombre-module
   * Reconstruir modulos de NODE
-    - `npm install
+    - `npm install`
   * Crear los componentes sin el archivo de pruebas
     - `--skip-tests`
 
