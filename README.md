@@ -21,6 +21,10 @@
     - `npm install`
   * Crear los componentes sin el archivo de pruebas
     - `--skip-tests`
+  * Crear componentes sin el archivo de style
+    - `-s`
+    - `--skip-tests -s` ( **omite el archivo de pruebas y style** )
+  
 
 
 # Despliegue servidor
