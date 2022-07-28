@@ -24,6 +24,8 @@
   * Crear componentes sin el archivo de style
     - `-s`
     - `--skip-tests -s` ( **omite el archivo de pruebas y style** )
+  * Confiar en que el la variable nunca va hacer nula
+     - `!`
   
 
 
